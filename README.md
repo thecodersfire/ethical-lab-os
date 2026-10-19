@@ -24,3 +24,11 @@ The `ethical-lab.svg` wallpaper is original. Ethical Lab OS is an independent Ub
 
 See [FEATURES.md](FEATURES.md) for three local tools included for ethical cybersecurity learning.
 
+
+The installer also includes three purpose-specific applications: **Zotero, Anki, Foliate**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Zotero, Anki, Foliate**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Zotero, Anki, Foliate**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Zotero, Anki, Foliate**. See [FEATURES.md](FEATURES.md).
