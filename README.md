@@ -25,4 +25,4 @@ The `ethical-lab.svg` wallpaper is original. Ethical Lab OS is an independent Ub
 See [FEATURES.md](FEATURES.md) for three local tools included for ethical cybersecurity learning.
 
 
-The installer includes ten more applications selected for this distro's purpose. See [FEATURES.md](FEATURES.md) for the list.
+The installer includes fifteen additional purpose-specific applications; the complete list is in [FEATURES.md](FEATURES.md).
